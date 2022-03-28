@@ -7,8 +7,9 @@ A python library that uwu-ifies your text. Example:
 
 ## Instalation
 
-This library is not on pip as of right now mainly cause I'm lazy.
-You can clone the repo via running the following git command in your terminal: `git clone https://github.com/CheesyGamer77/uwuipy.git`
+```
+pip install git+https://github.com/SlumberDemon/uwuipy
+```
 
 ## Example Usage
 
@@ -20,10 +21,6 @@ from uwuipy import Uwuifier
 uwuifier = Uwuifier()
 print(uwuifier.uwu("This library is not on pip as of right now.")) # returns "This libwawy is (・`ω´・) not on pip as of wight n-now."
 ```
-
-## Why?
-
-Honestly, I was bored in my dorm and it's not like I had anything better to do at the time. Plus I thought it'd be funny.
 
 ### Acknowledgements
 
