@@ -9,7 +9,7 @@ setup(
     description="Uwuify text",
     long_description=long_description,
     long_description_content_type='text/markdown',
-    package_dir={'': "src"},
+    package_dir={'': "uwuipy"},
     url="https://github.com/SlumberDemon/uwuipy",
     author="SlumberDemon",
     classifiers=[
