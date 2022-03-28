@@ -6,7 +6,7 @@ with open("README.md", "r") as f:
 setup(
     name="uwuipy",
     version="0.0.3",
-    description="Uwuify text",
+    description='A python library that "uwuifies" a given string',
     long_description=long_description,
     long_description_content_type='text/markdown',
     package_dir={'': "uwuipy"},
